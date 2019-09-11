@@ -20,6 +20,16 @@ public class hellothere {
 		System.out.println("\tMy girlfriends name is Shelby.\n");
 		System.out.println("Now I am practicing " + "using the plus sign");	
 		System.out.println("\n\tFirst = " + (5 * 6) + ",");
+		System.out.println("\n\tBrowns: " + 6 + "\n\n\tTitans: " + 3);
+		int age;
+		double myNumber = 4.577;
+		char middleInitial = 'E';
+		String myName = "Caleb";
+		System.out.print("Hello, " + myName + " " + middleInitial + "!\n Your favorite number is " + myNumber + ".");
+		
+		
+		
+		
 		
 			
 	
