@@ -4,6 +4,14 @@ public class Program5 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		// Project:			Program 5
+		// Author:			Caleb Voorhees
+		// Github:          cvoorhees15
+		// Description:		Three methods each with a different task.
+		// Date:			Oct 16, 2019
+		// Version			1.0
+		
+		
 		// Open keyboard
 		Scanner keyboard = new Scanner(System.in);
 		
