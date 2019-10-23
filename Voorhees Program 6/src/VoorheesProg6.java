@@ -11,14 +11,19 @@ public class VoorheesProg6 {
 		// Date:			Oct 23, 2019
 		// Version			1.0
 
+	// Adding new class
 	Account account1 = new Account();
 	
+	//Bringing in keyboard
 	Scanner keyboard = new Scanner(System.in);
+	
+	// Declaring variables
 	double balance = 0.00;
 	int menuChoice = 0;
 	double depositAmount = 0.00;
 	double withdrawalAmount = 0.00;
 	
+	// Menu enclosed in loop
 	do
 	{
 		account1.mainMenu();
