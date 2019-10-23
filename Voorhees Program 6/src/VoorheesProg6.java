@@ -3,6 +3,13 @@ public class VoorheesProg6 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		// Project:			Program 6
+		// Author:			Caleb Voorhees
+		// Github:          cvoorhees15
+		// Description:		Checking account using classes
+		// Date:			Oct 23, 2019
+		// Version			1.0
 
 	Account account1 = new Account();
 	
