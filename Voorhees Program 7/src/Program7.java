@@ -61,8 +61,8 @@ public class Program7 {
 	
 		System.out.println("\nAway team wins!");
 		
-	
-		
+		// Close keyboard
+		keyboard.close();
 	}
 
 }
